@@ -1,94 +1,96 @@
 {
  "aktif": true,
- "guncelleme": "2026-10-14T22:43+03:00",
+ "guncelleme": "2026-10-14T22:55+03:00",
  "olaylar": [
   {
    "tarih": "2026-10-14",
-   "metin": "ASML 2026 3. çeyrek sonuçlarını açıkladı",
+   "metin": "ASML üçüncü çeyrek bilançosu",
    "tur": "bilanco",
-   "resmi": true,
+   "resmi": false,
    "kaynak_sayisi": 2,
-   "link": null
+   "link": null,
+   "kesin": false
+  },
+  {
+   "tarih": "2026-10-14",
+   "metin": "Resmî Gazete coğrafi veri izin yönetmeliği",
+   "tur": "duzenleme",
+   "resmi": true,
+   "kaynak_sayisi": 3,
+   "link": null,
+   "kesin": true
   },
   {
    "tarih": "2026-10-15",
-   "metin": "TSMC 3. çeyrek bilanço konferansı (TSİ 09:00)",
+   "metin": "TSMC üçüncü çeyrek bilanço toplantısı",
    "tur": "bilanco",
    "resmi": true,
    "kaynak_sayisi": 2,
-   "link": null
-  },
-  {
-   "tarih": "2026-10-15",
-   "metin": "NASA, JAXA MMX katkıları için basın toplantısı",
-   "tur": "uzay_bilim",
-   "resmi": true,
-   "kaynak_sayisi": 1,
-   "link": null
+   "link": null,
+   "kesin": true
   },
   {
    "tarih": "2026-10-16",
-   "metin": "iPhone Duo Türkiye ön sipariş 15:00, 229.999 TL",
+   "metin": "Apple iPhone Duo Türkiye ön sipariş",
    "tur": "cihaz_tr",
-   "resmi": true,
-   "kaynak_sayisi": 3,
-   "link": null
-  },
-  {
-   "tarih": "2026-10-19",
-   "metin": "JAXA MMX Phobos görevi H3 ile fırlatılacak",
-   "tur": "uzay_bilim",
-   "resmi": true,
+   "resmi": false,
    "kaynak_sayisi": 4,
-   "link": null
+   "link": null,
+   "kesin": true
   },
   {
    "tarih": "2026-10-19",
-   "metin": "SpaceX Bandwagon-5 ortak yolculuk fırlatması",
+   "metin": "SpaceX Falcon 9 Bandwagon-5 görevi",
    "tur": "uzay_bilim",
    "resmi": false,
-   "kaynak_sayisi": 3,
-   "link": null
+   "kaynak_sayisi": 5,
+   "link": null,
+   "kesin": true
   },
   {
    "tarih": "2026-10-20",
-   "metin": "NVIDIA GTC Berlin başlıyor (20-22 Ekim)",
+   "metin": "NVIDIA GTC Berlin konferansı başlıyor",
    "tur": "etkinlik",
    "resmi": true,
-   "kaynak_sayisi": 2,
-   "link": null
+   "kaynak_sayisi": 3,
+   "link": null,
+   "kesin": true
   },
   {
    "tarih": "2026-10-21",
-   "metin": "Tesla 3. çeyrek bilançosu (ABD kapanış sonrası)",
+   "metin": "Meta üçüncü çeyrek bilançosu",
    "tur": "bilanco",
-   "resmi": true,
+   "resmi": false,
+   "kaynak_sayisi": 3,
+   "link": null,
+   "kesin": true
+  },
+  {
+   "tarih": "2026-10-22",
+   "metin": "Microsoft AI Tour Köln etkinliği",
+   "tur": "etkinlik",
+   "resmi": false,
    "kaynak_sayisi": 2,
-   "link": null
+   "link": null,
+   "kesin": false
   },
   {
    "tarih": "2026-10-23",
-   "metin": "iPhone Duo Türkiye'de satışta, 229.999 TL'den",
+   "metin": "Apple iPhone Duo Türkiye'de satışa çıkıyor",
    "tur": "cihaz_tr",
-   "resmi": true,
-   "kaynak_sayisi": 3,
-   "link": null
+   "resmi": false,
+   "kaynak_sayisi": 5,
+   "link": null,
+   "kesin": true
   },
   {
    "tarih": "2026-10-28",
-   "metin": "Alphabet 3. çeyrek bilanço konferansı",
-   "tur": "bilanco",
-   "resmi": true,
-   "kaynak_sayisi": 2,
-   "link": null
-  },
-  {
-   "tarih": "2026-10-28",
-   "metin": "Microsoft 2027 mali yılı 1. çeyrek bilançosu",
+   "metin": "Alphabet üçüncü çeyrek bilançosu",
    "tur": "bilanco",
    "resmi": true,
    "kaynak_sayisi": 3,
-   "link": null
+   "link": null,
+   "kesin": true
   }
  ]
 }
