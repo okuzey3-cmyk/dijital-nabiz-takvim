@@ -1,6 +1,17 @@
 {
- "guncelleme": "2026-10-15T15:35+03:00",
+ "guncelleme": "2026-10-15T20:43+03:00",
  "haberler": [
+  {
+   "id": "e4538d147c",
+   "zaman": "2026-10-15T20:30+03:00",
+   "metin": "Volvo, Nvidia ile eller serbest sürüşe geçiyor",
+   "aciklama": "Volvo, Nvidia'nın otonom sürüş yazılımını kullanarak 2030'a kadar eller serbest, noktadan noktaya sürüş sistemi getirmeyi planlıyor. Şirket, yeni sistemin Seviye 2++ olacağını ve Nvidia ile ortaklığını genişleteceğini açıkladı.",
+   "link": null,
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "volvo"
+   ]
+  },
   {
    "id": "dfa649cc64",
    "zaman": "2026-10-15T15:00+03:00",
@@ -145,6 +156,21 @@
   "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
   "https://www.engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch/",
   "https://www.webtekno.com/iphone-duo-turkiye-tamir-ucreti-h227173.html",
-  "https://shiftdelete.net/iphone-duoyu-sakin-bozmayin-tamir-ucreti-cebinizi-yakacak"
+  "https://shiftdelete.net/iphone-duoyu-sakin-bozmayin-tamir-ucreti-cebinizi-yakacak",
+  "https://www.log.com.tr/apple-yeni-mac-modellerini-ve-oled-ipad-miniyi-28-ekimde-tanitacak/",
+  "https://www.androidauthority.com/youtube-premium-audiobooks-3723764/",
+  "https://www.webtekno.com/youtube-premiuma-sesli-kitap-ozelligi-geliyor-spotify-ve-audiblea-rakip-olacak-h227260.html",
+  "https://9to5google.com/2026/10/15/youtube-may-add-audiobooks-to-app/",
+  "https://www.engadget.com/2286631/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort/",
+  "https://9to5google.com/2026/10/15/xreal-1-pro-plus-upgrades-price/",
+  "https://www.androidauthority.com/xreal-1-pro-plus-ar-glasses-launched-3723563/",
+  "https://shiftdelete.net/apple-iphone-18-duz-model-uretim-beklentisi",
+  "https://www.androidauthority.com/switch-from-android-iphone-18-pro-max-biggest-takeaways-3721758/",
+  "https://www.webtekno.com/iphone-18-pro-da-renk-sorunu-iddiasi-h227239.html",
+  "https://www.androidauthority.com/samsung-galaxy-a58-camera-specs-leak-3723566/",
+  "https://www.donanimhaber.com/samsung-galaxy-a38-ve-galaxy-a58-in-kamera-ozellikleri-sizdirildi--211664",
+  "https://www.webtekno.com/samsung-galaxy-a58-kamera-ozellikleri-ortaya-cikti-h227206.html",
+  "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+  "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/"
  ]
 }
