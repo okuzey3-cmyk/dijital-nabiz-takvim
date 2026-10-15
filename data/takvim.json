@@ -1,146 +1,126 @@
 {
  "aktif": true,
- "guncelleme": "2026-10-15T09:57+03:00",
+ "guncelleme": "2026-10-15T13:09+03:00",
  "olaylar": [
   {
    "tarih": "2026-10-15",
-   "metin": "Türkiye Innovation Week İstanbul'da başlıyor",
-   "tur": "turk_tek",
-   "resmi": false,
-   "kaynak_sayisi": 4,
-   "link": null,
-   "kesin": true,
-   "aciklama": "Türkiye Innovation Week'in 13'üncüsü 15 Ekim 2026'da İstanbul Haliç Kongre Merkezi'nde TİM Başkanı Mustafa Gültepe'nin açılış konuşmasıyla başlıyor. Etkinlik 17 Ekim'e kadar sürecek ve teknoloji, girişimcilik ve iş dünyası temsilcilerini bir araya getirecek."
-  },
-  {
-   "tarih": "2026-10-15",
-   "metin": "Enshrouded erken erişimden çıkıyor (1.0)",
-   "tur": "oyun",
-   "resmi": false,
-   "kaynak_sayisi": 4,
-   "link": null,
-   "kesin": true,
-   "aciklama": "Enshrouded, 15 Ekim 2026'da erken erişimden çıkıp 1.0 sürümüne ulaşıyor. PC ve PS5 oyuncuları PS5 Pro desteğiyle oynayabilecek; Xbox Series X|S sürümü ise 2027 baharına ertelendi."
-  },
-  {
-   "tarih": "2026-10-15",
-   "metin": "Epic'te bedava: Agent A ve Bad Cheese",
+   "metin": "Epic Games'te Agent A ve Bad Cheese bedava",
    "tur": "ucretsiz",
    "resmi": false,
    "kaynak_sayisi": 4,
    "link": null,
    "kesin": true,
-   "aciklama": "Epic Games Store'da 15 Ekim'de Agent A ve Bad Cheese adlı iki oyun ücretsiz olarak sunuluyor. Bir önceki haftanın ücretsiz oyunları Terrascape ve Out of Sight idi."
+   "aciklama": "Epic Games Store, 15-22 Ekim tarihleri arasında Agent A: A Puzzle in Disguise ve Bad Cheese oyunlarını ücretsiz sunuyor. Oyunları PC'de bu tarihler arasında hesabına ekleyen kullanıcılar kalıcı olarak edinebilecek."
+  },
+  {
+   "tarih": "2026-10-15",
+   "metin": "Taksit sürelerini Bakanlık belirleyecek",
+   "tur": "duzenleme",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Ticaret Bakanlığı'nın perakende ticaret yönetmeliğindeki değişiklik 15 Ekim'de Resmi Gazete'de yayımlanarak yürürlüğe girdi. Konut dışı mal ve hizmet satışlarında taksit sürelerini artık Bakanlık belirleyecek; bu durum tüketicileri ve satıcıları etkiliyor."
   },
   {
    "tarih": "2026-10-16",
-   "metin": "iPhone Duo Türkiye'de ön siparişe açılıyor",
+   "metin": "Katlanabilir iPhone Duo ön siparişe açılıyor",
    "tur": "tr_satis",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Apple'ın katlanabilir telefonu iPhone Duo, Türkiye'de 16 Ekim saat 15.00'te ön siparişe açılacak. Cihaz 23 Ekim'de satışa sunulacak; Türkiye ilk satış dalgasında yer aldığı için ülkedeki alıcılar da ilk gruba dahil."
+  },
+  {
+   "tarih": "2026-10-21",
+   "metin": "Jensen Huang'ın GTC Berlin konuşması",
+   "tur": "etkinlik",
    "resmi": true,
    "kaynak_sayisi": 2,
    "link": null,
-   "kesin": true,
-   "aciklama": "Katlanabilir iPhone Duo, Türkiye'de 16 Ekim saat 15.00'te ön siparişe açılıyor. Cihaz 23 Ekim'de satışa çıkacak ve Türkiye ilk satış dalgasında yer alıyor."
+   "kesin": false,
+   "aciklama": null
   },
   {
-   "tarih": "2026-10-16",
-   "metin": "Resident Evil 2, 3 ve 4 Switch 2'ye geliyor",
-   "tur": "oyun",
+   "tarih": "2026-10-21",
+   "metin": "Meta üçüncü çeyrek bilançosunu açıklıyor",
+   "tur": "bilanco",
+   "resmi": false,
+   "kaynak_sayisi": 2,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Meta Platforms, 2026 üçüncü çeyrek finansal sonuçlarını 21 Ekim Çarşamba günü piyasa kapanışından sonra açıklayacak. Şirket sonuçları aynı gün Pasifik saatiyle 13.30'da yapacağı konferans görüşmesiyle yatırımcılara anlatacak."
+  },
+  {
+   "tarih": "2026-10-21",
+   "metin": "Orionid meteor yağmuru zirve yapıyor",
+   "tur": "gokyuzu",
    "resmi": false,
    "kaynak_sayisi": 5,
    "link": null,
    "kesin": true,
-   "aciklama": "Resident Evil 2, Resident Evil 3 ve Resident Evil 4 yeniden yapımları 16 Ekim 2026'da Nintendo Switch 2 için çıkıyor. Üç oyun da aynı gün Switch 2 oyuncularına sunulacak."
+   "aciklama": "Orionid meteor yağmuru 21-22 Ekim gecesi zirveye ulaşacak ve Türkiye'nin her bölgesinden çıplak gözle izlenebilecek. Zirve gecesinde saatte 10 ile 20 meteor görülmesi bekleniyor; gökyüzü meraklıları bu geceyi değerlendirebilir."
   },
   {
    "tarih": "2026-10-21",
-   "metin": "Orionid meteor yağmuru doruğa çıkıyor",
-   "tur": "gokyuzu",
+   "metin": "OPPO Find X10 serisi küresel lansmanda",
+   "tur": "etkinlik",
    "resmi": false,
-   "kaynak_sayisi": 4,
-   "link": null,
-   "kesin": true,
-   "aciklama": "Orionid meteor yağmuru 21-22 Ekim 2026 gecesi doruk noktasına ulaşıyor. Parlak ve hızlı meteorlar, karanlık gökyüzü olan yerlerden Orion takımyıldızı önünde izlenebilecek."
-  },
-  {
-   "tarih": "2026-10-21",
-   "metin": "Tesla üçüncü çeyrek bilançosunu açıklıyor",
-   "tur": "bilanco",
-   "resmi": false,
-   "kaynak_sayisi": 3,
-   "link": null,
-   "kesin": false,
-   "aciklama": "Tesla, 2026 üçüncü çeyrek sonuçlarını 21 Ekim Çarşamba günü piyasa kapanışından sonra açıklıyor. Şirketin web yayını Orta Amerika saatiyle 16.30'da yapılacak."
-  },
-  {
-   "tarih": "2026-10-22",
-   "metin": "Final Fantasy Resonance çıkış günü",
-   "tur": "oyun",
-   "resmi": false,
-   "kaynak_sayisi": 4,
-   "link": null,
-   "kesin": true,
-   "aciklama": "Square Enix'in piksel sanat dünyasına dönen oyunu Final Fantasy Resonance 22 Ekim 2026'da çıkıyor. Oyun PC, PS5, Xbox, Switch ve Switch 2 oyuncularına sunulacak."
-  },
-  {
-   "tarih": "2026-10-23",
-   "metin": "Katlanabilir iPhone Duo Türkiye'de satışta",
-   "tur": "tr_satis",
-   "resmi": true,
    "kaynak_sayisi": 2,
    "link": null,
    "kesin": true,
-   "aciklama": "Katlanabilir iPhone Duo, Türkiye'de 23 Ekim'de satışa sunuluyor. Cihaz yıldız rengi ve gece rengi seçenekleriyle, 16 Ekim'de başlayan ön siparişin ardından ilk alıcılara ulaşacak."
+   "aciklama": "OPPO Find X10 serisinin küresel lansmanı 21 Ekim'de İspanya'nın Mayorka adasında yapılacak. Etkinlikte daha önce Çin'de tanıtılan Find X10 ve Find X10 Pro Max modelleri öne çıkacak; Türkiye'de de satışı bekleniyor."
   },
   {
-   "tarih": "2026-10-23",
-   "metin": "iOS 27.1 en geç bugün cihazlarda olacak",
-   "tur": "yazilim",
-   "resmi": true,
+   "tarih": "2026-10-22",
+   "metin": "Final Fantasy Resonance çıkıyor",
+   "tur": "oyun",
+   "resmi": false,
    "kaynak_sayisi": 3,
    "link": null,
    "kesin": true,
-   "aciklama": "Apple, iOS 27.1 güncellemesini en geç 23 Ekim'de yayımlayacak; hatta birkaç gün önce çıkması bekleniyor. iPhone Duo bu sürümle satışa çıkacağı için yeni cihazı alacaklar ve iPhone kullanıcıları etkilenecek."
+   "aciklama": "Square Enix'in piksel sanat dünyasına dönen JRPG'si Final Fantasy Resonance 22 Ekim 2026'da çıkıyor. Oyun PS5, Xbox Series X|S, Switch 2, Switch ve PC'de oynanabilecek; sıra tabanlı rol yapma oyunu severleri hedefliyor."
   },
   {
    "tarih": "2026-10-23",
    "metin": "Call of Duty: Modern Warfare 4 çıkıyor",
    "tur": "oyun",
    "resmi": false,
-   "kaynak_sayisi": 4,
+   "kaynak_sayisi": 3,
    "link": null,
    "kesin": true,
-   "aciklama": "Call of Duty: Modern Warfare 4, 23 Ekim 2026'da piyasaya çıkıyor. Oyun PC, Xbox, PS5 ve Switch 2 oyuncularına sunulacak."
+   "aciklama": "Call of Duty: Modern Warfare 4, 23 Ekim 2026'da çıkış yapacak. Oyun PC, PlayStation 5, Xbox Series X|S ve Nintendo Switch 2 oyuncularına sunulacak."
   },
   {
-   "tarih": "2026-10-27",
-   "metin": "Minecraft Switch 2 sürümü geliyor",
-   "tur": "oyun",
+   "tarih": "2026-10-23",
+   "metin": "iPhone Duo Türkiye'de satışa çıkıyor",
+   "tur": "tr_satis",
    "resmi": false,
    "kaynak_sayisi": 4,
    "link": null,
    "kesin": true,
-   "aciklama": "Minecraft'ın Nintendo Switch 2 sürümü 27 Ekim 2026'da çıkıyor. Yeni sürüm Switch 2 sahibi oyuncuları ilgilendiriyor."
+   "aciklama": "Apple'ın katlanabilir telefonu iPhone Duo, 23 Ekim 2026'da Türkiye'de satışa çıkacak. Ön siparişler 16 Ekim saat 15.00'te başlıyor; cihaz 7.6 inç iç ve 5.4 inç dış ekrana sahip."
+  },
+  {
+   "tarih": "2026-10-27",
+   "metin": "vivo X500 Pro Max Türkiye'de ön satışta",
+   "tur": "tr_satis",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": false,
+   "aciklama": "Vivo'nun kamera odaklı amiral gemisi X500 Pro Max için Türkiye'de ön satış 27 Ekim'de başlayacak. Telefon siyah ve gri renk seçenekleriyle gelecek, ön kayıtlar ise 20 Ekim'de açılacak."
   },
   {
    "tarih": "2026-10-28",
-   "metin": "Microsoft bilançosunu açıklıyor",
+   "metin": "Microsoft yeni çeyrek bilançosunu açıklıyor",
    "tur": "bilanco",
    "resmi": true,
    "kaynak_sayisi": 3,
    "link": null,
    "kesin": true,
-   "aciklama": "Microsoft, 2027 mali yılı ilk çeyrek sonuçlarını 28 Ekim 2026 Çarşamba günü piyasa kapanışından sonra açıklıyor. Sonuçlar şirketin yatırımcı ilişkileri sitesinde yayımlanacak ve canlı yayınlı bir toplantıyla paylaşılacak."
-  },
-  {
-   "tarih": "2026-10-28",
-   "metin": "Alphabet (Google) bilançosunu açıklıyor",
-   "tur": "bilanco",
-   "resmi": true,
-   "kaynak_sayisi": 3,
-   "link": null,
-   "kesin": true,
-   "aciklama": "Alphabet, 30 Eylül'de sona eren üçüncü çeyreğe ait sonuçlarını 28 Ekim 2026 Çarşamba günü piyasa kapanışından sonra açıklıyor. Sonuçlar, Pasifik saatiyle 13.30'da başlayacak canlı yayınlı bir toplantıda ele alınacak."
+   "aciklama": "Microsoft, 2027 mali yılının ilk çeyrek finansal sonuçlarını 28 Ekim 2026 Çarşamba günü piyasa kapanışından sonra yayımlayacak. Sonuçlar yatırımcı ilişkileri sitesinden duyurulacak ve gelir görüşmesi canlı yayınlanacak."
   }
  ]
 }
