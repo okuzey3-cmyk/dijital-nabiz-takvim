@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T20:43+03:00",
+ "guncelleme": "2026-10-16T00:16+03:00",
  "haberler": [
   {
    "id": "e4538d147c",
@@ -13,6 +13,24 @@
    ]
   },
   {
+   "id": "9dc666d5bb",
+   "zaman": "2026-10-15T20:00+03:00",
+   "metin": "Meta'dan Mac'lerde çalışan yeni açık AI modeli",
+   "aciklama": "Meta, Apple ile iş birliği yaparak Muse Spark Open adlı yeni açık ağırlıklı yapay zeka modelini tanıttı. Model, Apple çiplerine sahip Mac bilgisayarlarda yerel olarak çalışacak şekilde optimize edildi.",
+   "link": null,
+   "kaynak_sayisi": 4,
+   "anahtar": [
+    "1tb",
+    "mac",
+    "macs",
+    "meta",
+    "muse",
+    "open",
+    "ram",
+    "studio"
+   ]
+  },
+  {
    "id": "dfa649cc64",
    "zaman": "2026-10-15T15:00+03:00",
    "metin": "Amazon'un Bee'si iki yeni yapay zeka cihazı tanıttı",
@@ -23,6 +41,26 @@
     "75",
     "amazon",
     "bee"
+   ]
+  },
+  {
+   "id": "9a1b4992e0",
+   "zaman": "2026-10-15T13:53+03:00",
+   "metin": "RedMagic 12 Pro+ oyuncu telefonu tanıtıldı",
+   "aciklama": "Red Magic, yeni amiral gemisi oyuncu telefonu RedMagic 12 Pro+'ı tanıttı. Telefon, Snapdragon 8 Elite Extreme Gen 6 işlemci, 8.400 mAh batarya ve aktif soğutma sistemiyle geliyor.",
+   "link": null,
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "12",
+    "alexa",
+    "donanımıyla",
+    "eksiksiz",
+    "güçlü",
+    "magic",
+    "red",
+    "redmagic",
+    "tablet",
+    "tanıtıldı"
    ]
   },
   {
@@ -171,6 +209,18 @@
   "https://www.donanimhaber.com/samsung-galaxy-a38-ve-galaxy-a58-in-kamera-ozellikleri-sizdirildi--211664",
   "https://www.webtekno.com/samsung-galaxy-a58-kamera-ozellikleri-ortaya-cikti-h227206.html",
   "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-  "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/"
+  "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+  "https://www.teknoblog.com/youtube-sesli-kitap-icin-yayincilarla-gorusuyor/",
+  "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
+  "https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/",
+  "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+  "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "https://www.teknoblog.com/iphone-18-kasim-sonunda-uretime-girebilir/",
+  "https://www.teknoblog.com/galaxy-a58-makro-kamerayi-koruyabilir/",
+  "https://shiftdelete.net/red-magic-12-pro-guclu-donanimiyla-tanitildi",
+  "https://www.donanimhaber.com/redmagic-12-pro-tanitildi-iste-ozellikleri-ve-fiyati--211667",
+  "https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review/",
+  "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
+  "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
  ]
 }
