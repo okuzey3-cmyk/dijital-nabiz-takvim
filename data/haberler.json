@@ -1,6 +1,56 @@
 {
- "guncelleme": "2026-10-15T10:14+03:00",
+ "guncelleme": "2026-10-15T15:35+03:00",
  "haberler": [
+  {
+   "id": "dfa649cc64",
+   "zaman": "2026-10-15T15:00+03:00",
+   "metin": "Amazon'un Bee'si iki yeni yapay zeka cihazı tanıttı",
+   "aciklama": "Amazon'un sahibi olduğu Bee, satın alınmasının ardından ilk yeni yapay zeka cihazlarını tanıttı. Cihazlar, konuşmaları kaydedip not alan ve özetleyen akıllı ürünler olarak sunuluyor.",
+   "link": null,
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "75",
+    "amazon",
+    "bee"
+   ]
+  },
+  {
+   "id": "ec9efad095",
+   "zaman": "2026-10-15T11:44+03:00",
+   "metin": "iPhone Duo'nun Türkiye tamir ücretleri açıklandı",
+   "aciklama": "Apple'ın ilk katlanabilir iPhone'u Duo'nun Türkiye'deki tamir ücretleri açıklandı. Açıklanan rakamlar, cihazın onarımının kullanıcılar için ciddi bir mali yük oluşturabileceğine işaret ediyor.",
+   "link": null,
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "açıklandı",
+    "bozmayın",
+    "cebinizi",
+    "duo",
+    "sakın",
+    "tamir",
+    "türkiye",
+    "yakacak",
+    "ücreti",
+    "ücretleri"
+   ]
+  },
+  {
+   "id": "b719fa3cd3",
+   "zaman": "2026-10-15T07:03+03:00",
+   "metin": "Skoda Epiq Sportline tanıtıldı: 440 km menzil",
+   "aciklama": "Skoda, tamamen elektrikli kompakt SUV Epiq'in sportif tasarımlı Sportline versiyonunu tanıttı. Model, siyah tasarım detayları ve 440 km'ye kadar menzil sunuyor.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "440",
+    "epiq",
+    "skoda",
+    "sportif",
+    "sportline",
+    "tanıtıldı",
+    "tasarımlı"
+   ]
+  },
   {
    "id": "2ae391da16",
    "zaman": "2026-10-15T00:15+03:00",
@@ -79,6 +129,22 @@
   "https://www.log.com.tr/230-bin-tllik-iphone-duonun-resmi-turkiye-tamir-ucretleri-belli-oldu/",
   "https://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
   "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared/",
-  "https://www.androidauthority.com/google-pixel-11-discount-ai-pro-subscriber-benefit-3723553/"
+  "https://www.androidauthority.com/google-pixel-11-discount-ai-pro-subscriber-benefit-3723553/",
+  "https://www.donanimhaber.com/apple-2017-12-inc-macbook-a-servis-destegini-kesti--211654",
+  "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
+  "https://www.donanimhaber.com/dokunmatik-ekranli-macbook-pro-28-ekim-de-tanitilacak--211672",
+  "https://shiftdelete.net/apple-28-ekimde-yeni-urunlerini-tanitacak",
+  "https://www.log.com.tr/openai-eski-bir-calisaninin-son-derece-gizli-cihaz-dosyalarini-applea-goturdugunu-iddia-etti/",
+  "https://shiftdelete.net/openai-apple-ticari-sir-davasi-iddiasi",
+  "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
+  "https://www.webtekno.com/yeni-skoda-epic-sportline-tanitildi-h227158.html",
+  "https://www.donanimhaber.com/yeni-skoda-epiq-sportline-tanitildi-iste-tasarimi-ve-ozellikleri--211651",
+  "https://www.teknoblog.com/skoda-epiq-sportline-440-km-menzil-sunuyor/",
+  "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/",
+  "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+  "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "https://www.engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch/",
+  "https://www.webtekno.com/iphone-duo-turkiye-tamir-ucreti-h227173.html",
+  "https://shiftdelete.net/iphone-duoyu-sakin-bozmayin-tamir-ucreti-cebinizi-yakacak"
  ]
 }
