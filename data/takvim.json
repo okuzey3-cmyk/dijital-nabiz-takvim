@@ -1,96 +1,146 @@
 {
  "aktif": true,
- "guncelleme": "2026-10-14T22:55+03:00",
+ "guncelleme": "2026-10-15T09:57+03:00",
  "olaylar": [
   {
-   "tarih": "2026-10-14",
-   "metin": "ASML üçüncü çeyrek bilançosu",
-   "tur": "bilanco",
-   "resmi": false,
-   "kaynak_sayisi": 2,
-   "link": null,
-   "kesin": false
-  },
-  {
-   "tarih": "2026-10-14",
-   "metin": "Resmî Gazete coğrafi veri izin yönetmeliği",
-   "tur": "duzenleme",
-   "resmi": true,
-   "kaynak_sayisi": 3,
-   "link": null,
-   "kesin": true
-  },
-  {
    "tarih": "2026-10-15",
-   "metin": "TSMC üçüncü çeyrek bilanço toplantısı",
-   "tur": "bilanco",
-   "resmi": true,
-   "kaynak_sayisi": 2,
-   "link": null,
-   "kesin": true
-  },
-  {
-   "tarih": "2026-10-16",
-   "metin": "Apple iPhone Duo Türkiye ön sipariş",
-   "tur": "cihaz_tr",
+   "metin": "Türkiye Innovation Week İstanbul'da başlıyor",
+   "tur": "turk_tek",
    "resmi": false,
    "kaynak_sayisi": 4,
    "link": null,
-   "kesin": true
+   "kesin": true,
+   "aciklama": "Türkiye Innovation Week'in 13'üncüsü 15 Ekim 2026'da İstanbul Haliç Kongre Merkezi'nde TİM Başkanı Mustafa Gültepe'nin açılış konuşmasıyla başlıyor. Etkinlik 17 Ekim'e kadar sürecek ve teknoloji, girişimcilik ve iş dünyası temsilcilerini bir araya getirecek."
   },
   {
-   "tarih": "2026-10-19",
-   "metin": "SpaceX Falcon 9 Bandwagon-5 görevi",
-   "tur": "uzay_bilim",
+   "tarih": "2026-10-15",
+   "metin": "Enshrouded erken erişimden çıkıyor (1.0)",
+   "tur": "oyun",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Enshrouded, 15 Ekim 2026'da erken erişimden çıkıp 1.0 sürümüne ulaşıyor. PC ve PS5 oyuncuları PS5 Pro desteğiyle oynayabilecek; Xbox Series X|S sürümü ise 2027 baharına ertelendi."
+  },
+  {
+   "tarih": "2026-10-15",
+   "metin": "Epic'te bedava: Agent A ve Bad Cheese",
+   "tur": "ucretsiz",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Epic Games Store'da 15 Ekim'de Agent A ve Bad Cheese adlı iki oyun ücretsiz olarak sunuluyor. Bir önceki haftanın ücretsiz oyunları Terrascape ve Out of Sight idi."
+  },
+  {
+   "tarih": "2026-10-16",
+   "metin": "iPhone Duo Türkiye'de ön siparişe açılıyor",
+   "tur": "tr_satis",
+   "resmi": true,
+   "kaynak_sayisi": 2,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Katlanabilir iPhone Duo, Türkiye'de 16 Ekim saat 15.00'te ön siparişe açılıyor. Cihaz 23 Ekim'de satışa çıkacak ve Türkiye ilk satış dalgasında yer alıyor."
+  },
+  {
+   "tarih": "2026-10-16",
+   "metin": "Resident Evil 2, 3 ve 4 Switch 2'ye geliyor",
+   "tur": "oyun",
    "resmi": false,
    "kaynak_sayisi": 5,
    "link": null,
-   "kesin": true
-  },
-  {
-   "tarih": "2026-10-20",
-   "metin": "NVIDIA GTC Berlin konferansı başlıyor",
-   "tur": "etkinlik",
-   "resmi": true,
-   "kaynak_sayisi": 3,
-   "link": null,
-   "kesin": true
+   "kesin": true,
+   "aciklama": "Resident Evil 2, Resident Evil 3 ve Resident Evil 4 yeniden yapımları 16 Ekim 2026'da Nintendo Switch 2 için çıkıyor. Üç oyun da aynı gün Switch 2 oyuncularına sunulacak."
   },
   {
    "tarih": "2026-10-21",
-   "metin": "Meta üçüncü çeyrek bilançosu",
+   "metin": "Orionid meteor yağmuru doruğa çıkıyor",
+   "tur": "gokyuzu",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Orionid meteor yağmuru 21-22 Ekim 2026 gecesi doruk noktasına ulaşıyor. Parlak ve hızlı meteorlar, karanlık gökyüzü olan yerlerden Orion takımyıldızı önünde izlenebilecek."
+  },
+  {
+   "tarih": "2026-10-21",
+   "metin": "Tesla üçüncü çeyrek bilançosunu açıklıyor",
    "tur": "bilanco",
    "resmi": false,
    "kaynak_sayisi": 3,
    "link": null,
-   "kesin": true
+   "kesin": false,
+   "aciklama": "Tesla, 2026 üçüncü çeyrek sonuçlarını 21 Ekim Çarşamba günü piyasa kapanışından sonra açıklıyor. Şirketin web yayını Orta Amerika saatiyle 16.30'da yapılacak."
   },
   {
    "tarih": "2026-10-22",
-   "metin": "Microsoft AI Tour Köln etkinliği",
-   "tur": "etkinlik",
+   "metin": "Final Fantasy Resonance çıkış günü",
+   "tur": "oyun",
    "resmi": false,
-   "kaynak_sayisi": 2,
+   "kaynak_sayisi": 4,
    "link": null,
-   "kesin": false
+   "kesin": true,
+   "aciklama": "Square Enix'in piksel sanat dünyasına dönen oyunu Final Fantasy Resonance 22 Ekim 2026'da çıkıyor. Oyun PC, PS5, Xbox, Switch ve Switch 2 oyuncularına sunulacak."
   },
   {
    "tarih": "2026-10-23",
-   "metin": "Apple iPhone Duo Türkiye'de satışa çıkıyor",
-   "tur": "cihaz_tr",
-   "resmi": false,
-   "kaynak_sayisi": 5,
+   "metin": "Katlanabilir iPhone Duo Türkiye'de satışta",
+   "tur": "tr_satis",
+   "resmi": true,
+   "kaynak_sayisi": 2,
    "link": null,
-   "kesin": true
+   "kesin": true,
+   "aciklama": "Katlanabilir iPhone Duo, Türkiye'de 23 Ekim'de satışa sunuluyor. Cihaz yıldız rengi ve gece rengi seçenekleriyle, 16 Ekim'de başlayan ön siparişin ardından ilk alıcılara ulaşacak."
+  },
+  {
+   "tarih": "2026-10-23",
+   "metin": "iOS 27.1 en geç bugün cihazlarda olacak",
+   "tur": "yazilim",
+   "resmi": true,
+   "kaynak_sayisi": 3,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Apple, iOS 27.1 güncellemesini en geç 23 Ekim'de yayımlayacak; hatta birkaç gün önce çıkması bekleniyor. iPhone Duo bu sürümle satışa çıkacağı için yeni cihazı alacaklar ve iPhone kullanıcıları etkilenecek."
+  },
+  {
+   "tarih": "2026-10-23",
+   "metin": "Call of Duty: Modern Warfare 4 çıkıyor",
+   "tur": "oyun",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Call of Duty: Modern Warfare 4, 23 Ekim 2026'da piyasaya çıkıyor. Oyun PC, Xbox, PS5 ve Switch 2 oyuncularına sunulacak."
+  },
+  {
+   "tarih": "2026-10-27",
+   "metin": "Minecraft Switch 2 sürümü geliyor",
+   "tur": "oyun",
+   "resmi": false,
+   "kaynak_sayisi": 4,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Minecraft'ın Nintendo Switch 2 sürümü 27 Ekim 2026'da çıkıyor. Yeni sürüm Switch 2 sahibi oyuncuları ilgilendiriyor."
   },
   {
    "tarih": "2026-10-28",
-   "metin": "Alphabet üçüncü çeyrek bilançosu",
+   "metin": "Microsoft bilançosunu açıklıyor",
    "tur": "bilanco",
    "resmi": true,
    "kaynak_sayisi": 3,
    "link": null,
-   "kesin": true
+   "kesin": true,
+   "aciklama": "Microsoft, 2027 mali yılı ilk çeyrek sonuçlarını 28 Ekim 2026 Çarşamba günü piyasa kapanışından sonra açıklıyor. Sonuçlar şirketin yatırımcı ilişkileri sitesinde yayımlanacak ve canlı yayınlı bir toplantıyla paylaşılacak."
+  },
+  {
+   "tarih": "2026-10-28",
+   "metin": "Alphabet (Google) bilançosunu açıklıyor",
+   "tur": "bilanco",
+   "resmi": true,
+   "kaynak_sayisi": 3,
+   "link": null,
+   "kesin": true,
+   "aciklama": "Alphabet, 30 Eylül'de sona eren üçüncü çeyreğe ait sonuçlarını 28 Ekim 2026 Çarşamba günü piyasa kapanışından sonra açıklıyor. Sonuçlar, Pasifik saatiyle 13.30'da başlayacak canlı yayınlı bir toplantıda ele alınacak."
   }
  ]
 }
