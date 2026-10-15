@@ -1,0 +1,84 @@
+{
+ "guncelleme": "2026-10-15T10:14+03:00",
+ "haberler": [
+  {
+   "id": "2ae391da16",
+   "zaman": "2026-10-15T00:15+03:00",
+   "metin": "Epic Games'in yeni başlatıcısı ön izlemede",
+   "aciklama": "Epic Games, yapay zekâ yardımıyla yazılan kodlarla geliştirdiği yeni başlatıcı uygulamasını ön izleme olarak yayımladı. Şirket uygulamanın Steam'den daha hızlı olduğunu öne sürüyor, ancak ön izleme sürümünde hatalar olabileceğini belirtiyor.",
+   "link": null,
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "başlatıcısı",
+    "epic",
+    "fortnite",
+    "games",
+    "hızlı",
+    "launcher",
+    "linux",
+    "resmen",
+    "steam",
+    "yayımlandı",
+    "yenilenen"
+   ]
+  },
+  {
+   "id": "59864eaa4c",
+   "zaman": "2026-10-14T23:08+03:00",
+   "metin": "Microsoft, küçük kumanda Xbox Nano'yu tanıttı",
+   "aciklama": "Microsoft, standart modelden daha küçük ve taşınabilir yeni kablosuz kontrolcüsü Xbox Nano'yu tanıttı. Şarj edilebilir pile ve Bluetooth desteğine sahip kontrolcü, taşınabilir oyun deneyimi arayan oyuncular için geliştirildi.",
+   "link": null,
+   "kaynak_sayisi": 4,
+   "anahtar": [
+    "boyutunda",
+    "cebinize",
+    "cep",
+    "controller",
+    "kadar",
+    "kolu",
+    "kontrolcüsü",
+    "kurdu",
+    "küçük",
+    "labs",
+    "microsoft",
+    "mini"
+   ]
+  },
+  {
+   "id": "1e3bfe14e5",
+   "zaman": "2026-10-14T22:44+03:00",
+   "metin": "YouTube Music'e yapay zekâ etiketi geldi",
+   "aciklama": "YouTube Music, yapay zekayla üretilen şarkıların kolayca fark edilmesi için oynatıcı ekranına yeni bir etiket eklemeye başladı. Düzenleme, platformda müzik dinleyen kullanıcıları ilgilendiriyor ve yapımında yapay zekanın büyük rol oynadığı parçalarda görünüyor.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "etiketleri",
+    "music",
+    "playing",
+    "youtube"
+   ]
+  }
+ ],
+ "islenen": [
+  "https://www.log.com.tr/mini-kontrolcu-xbox-nano-tanitildi/",
+  "https://shiftdelete.net/microsoft-xbox-labs-duyuruldu",
+  "https://www.webtekno.com/xbox-nano-kontrolcu-duyuruldu-h227152.html",
+  "https://www.donanimhaber.com/microsoft-daha-kucuk-ve-ucuz-xbox-nano-controller-i-tanitti--211646",
+  "https://shiftdelete.net/microsoft-xbox-nano-controller-tanitildi",
+  "https://9to5google.com/2026/10/14/youtube-music-ai-label/",
+  "https://www.log.com.tr/youtube-music-yapay-zekayla-uretilen-muzikler-icin-yeni-etiketler-ekledi/",
+  "https://www.webtekno.com/youtube-music-yapay-zeka-etiketleri-geldi-h227167.html",
+  "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+  "https://www.log.com.tr/epic-games-fortnitei-linuxa-getiriyor/",
+  "https://www.webtekno.com/yeni-epic-games-baslaticisi-yayimlandi-h227164.html",
+  "https://www.engadget.com/2286975/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit/",
+  "https://www.teknoblog.com/sony-ecm-w5-kablosuz-mikrofon-ozellikleri-fiyati/",
+  "https://www.log.com.tr/sony-yeni-kablosuz-mikrofon-sistemi-ecm-w5i-tanitti/",
+  "https://www.androidauthority.com/iphone-duo-screen-repair-costs-3723480/",
+  "https://www.teknoblog.com/iphone-duo-nun-geekbench-sonucu-ortaya-cikti/",
+  "https://www.log.com.tr/230-bin-tllik-iphone-duonun-resmi-turkiye-tamir-ucretleri-belli-oldu/",
+  "https://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
+  "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared/",
+  "https://www.androidauthority.com/google-pixel-11-discount-ai-pro-subscriber-benefit-3723553/"
+ ]
+}
