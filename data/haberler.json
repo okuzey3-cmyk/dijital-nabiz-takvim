@@ -1,6 +1,22 @@
 {
- "guncelleme": "2026-10-16T17:43+03:00",
+ "guncelleme": "2026-10-16T21:44+03:00",
  "haberler": [
+  {
+   "id": "eb9e0e7816",
+   "zaman": "2026-10-16T16:10+03:00",
+   "metin": "iPhone Duo ön siparişleri tükendi, teslimat 2027'de",
+   "aciklama": "Apple'ın ilk katlanabilir iPhone'u iPhone Duo, ön siparişe açılır açılmaz tükendi. Yeni teslimat tarihleri Ocak 2027'ye kaldı.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "2027",
+    "içinde",
+    "kaldı",
+    "saniyeler",
+    "teslimatlar",
+    "tükendi"
+   ]
+  },
   {
    "id": "deaaf73471",
    "zaman": "2026-10-16T13:20+03:00",
@@ -21,6 +37,28 @@
     "performansını",
     "ram",
     "windows"
+   ]
+  },
+  {
+   "id": "9d4a6cd3df",
+   "zaman": "2026-10-16T11:34+03:00",
+   "metin": "Yeni Audi Q4 e-tron Türkiye'de satışa sunuldu",
+   "aciklama": "Audi'nin yenilenen tamamen elektrikli SUV modeli Q4 e-tron Türkiye'de satışa sunuldu. Yeni iç mekân, menzil ve şarj özellikleri sürüme göre değişiyor.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "230",
+    "45",
+    "83",
+    "audi",
+    "ev3",
+    "fiyatı",
+    "işte",
+    "kia",
+    "q4",
+    "satışa",
+    "sunuldu",
+    "tl"
    ]
   },
   {
@@ -93,59 +131,6 @@
     "open",
     "ram",
     "studio"
-   ]
-  },
-  {
-   "id": "dfa649cc64",
-   "zaman": "2026-10-15T15:00+03:00",
-   "metin": "Amazon'un Bee'si iki yeni yapay zeka cihazı tanıttı",
-   "aciklama": "Amazon'un sahibi olduğu Bee, satın alınmasının ardından ilk yeni yapay zeka cihazlarını tanıttı. Cihazlar, konuşmaları kaydedip not alan ve özetleyen akıllı ürünler olarak sunuluyor.",
-   "link": null,
-   "kaynak_sayisi": 2,
-   "anahtar": [
-    "75",
-    "amazon",
-    "bee"
-   ]
-  },
-  {
-   "id": "9a1b4992e0",
-   "zaman": "2026-10-15T13:53+03:00",
-   "metin": "RedMagic 12 Pro+ oyuncu telefonu tanıtıldı",
-   "aciklama": "Red Magic, yeni amiral gemisi oyuncu telefonu RedMagic 12 Pro+'ı tanıttı. Telefon, Snapdragon 8 Elite Extreme Gen 6 işlemci, 8.400 mAh batarya ve aktif soğutma sistemiyle geliyor.",
-   "link": null,
-   "kaynak_sayisi": 2,
-   "anahtar": [
-    "12",
-    "alexa",
-    "donanımıyla",
-    "eksiksiz",
-    "güçlü",
-    "magic",
-    "red",
-    "redmagic",
-    "tablet",
-    "tanıtıldı"
-   ]
-  },
-  {
-   "id": "ec9efad095",
-   "zaman": "2026-10-15T11:44+03:00",
-   "metin": "iPhone Duo'nun Türkiye tamir ücretleri açıklandı",
-   "aciklama": "Apple'ın ilk katlanabilir iPhone'u Duo'nun Türkiye'deki tamir ücretleri açıklandı. Açıklanan rakamlar, cihazın onarımının kullanıcılar için ciddi bir mali yük oluşturabileceğine işaret ediyor.",
-   "link": null,
-   "kaynak_sayisi": 2,
-   "anahtar": [
-    "açıklandı",
-    "bozmayın",
-    "cebinizi",
-    "duo",
-    "sakın",
-    "tamir",
-    "türkiye",
-    "yakacak",
-    "ücreti",
-    "ücretleri"
    ]
   }
  ],
@@ -250,6 +235,20 @@
   "https://www.donanimhaber.com/organize-isler-karun-hazinesi-netflix-te-yayinlandi--211700",
   "https://shiftdelete.net/organize-isler-karun-hazinesi-netflix-kutuphanesine-eklendi",
   "https://shiftdelete.net/yeni-audi-q4-e-tron-turkiyede-satisa-sunuldu-iste-fiyati",
-  "https://www.webtekno.com/yeni-audi-q4-e-tron-turkiye-de-satisa-sunuldu-iste-fiyati-ve-ozellikleri-h227347.html"
+  "https://www.webtekno.com/yeni-audi-q4-e-tron-turkiye-de-satisa-sunuldu-iste-fiyati-ve-ozellikleri-h227347.html",
+  "https://www.log.com.tr/iphone-duo-turkiyede-230-bin-tlden-on-siparise-acildi/",
+  "https://www.teknoblog.com/yeni-audi-q4-e-tron-turkiye-fiyat-listesine-girdi/",
+  "https://www.teknoblog.com/kia-ev3-fiyati-245-milyon-tl-den-basliyor/",
+  "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
+  "https://www.webtekno.com/redmagic-12-pro-tanitildi-h227284.html",
+  "https://www.wired.com/review/razer-barracuda-v2-pro/",
+  "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+  "https://www.webtekno.com/iphone-duo-saniyeler-icinde-tukendi-yeni-teslimatlar-ocak-2027ye-kaldi-h227368.html",
+  "https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/",
+  "https://www.androidauthority.com/google-home-display-steal-apple-homeview-3723633/",
+  "https://9to5mac.com/2026/10/16/deals-new-apple-tv-4k-homeview-iphone-duo-airpods/",
+  "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+  "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+  "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
  ]
 }
