@@ -1,6 +1,28 @@
 {
- "guncelleme": "2026-10-16T12:38+03:00",
+ "guncelleme": "2026-10-16T17:43+03:00",
  "haberler": [
+  {
+   "id": "deaaf73471",
+   "zaman": "2026-10-16T13:20+03:00",
+   "metin": "Windows 11 düşük RAM'de daha hızlı çalışacak",
+   "aciklama": "Microsoft, Windows 11'i yeni optimizasyonlarla hızlandırdı ve bellek kullanımını düşürdü. Özellikle 8 GB RAM'li bilgisayarlarda sistemin daha akıcı ve tepki süresi kısa çalışması hedefleniyor.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "11",
+    "artırdı",
+    "bellek",
+    "bilgisayarlara",
+    "bilgisayarlarda",
+    "destek",
+    "gb",
+    "iyileşiyor",
+    "kullanımı",
+    "performansını",
+    "ram",
+    "windows"
+   ]
+  },
   {
    "id": "695a1492d5",
    "zaman": "2026-10-16T10:10+03:00",
@@ -60,7 +82,7 @@
    "zaman": "2026-10-15T20:00+03:00",
    "metin": "Meta'dan Mac'lerde çalışan yeni açık AI modeli",
    "aciklama": "Meta, Apple ile iş birliği yaparak Muse Spark Open adlı yeni açık ağırlıklı yapay zeka modelini tanıttı. Model, Apple çiplerine sahip Mac bilgisayarlarda yerel olarak çalışacak şekilde optimize edildi.",
-   "link": null,
+   "link": "https://dijitalnabiz.com.tr/2026/10/16/metanin-acik-modeli-macte-calisiyor-ama-hangi-macte-acik-ile-herkesin-bilgisayarinda-ayni-sey-degil/",
    "kaynak_sayisi": 4,
    "anahtar": [
     "1tb",
@@ -124,23 +146,6 @@
     "yakacak",
     "ücreti",
     "ücretleri"
-   ]
-  },
-  {
-   "id": "b719fa3cd3",
-   "zaman": "2026-10-15T07:03+03:00",
-   "metin": "Skoda Epiq Sportline tanıtıldı: 440 km menzil",
-   "aciklama": "Skoda, tamamen elektrikli kompakt SUV Epiq'in sportif tasarımlı Sportline versiyonunu tanıttı. Model, siyah tasarım detayları ve 440 km'ye kadar menzil sunuyor.",
-   "link": null,
-   "kaynak_sayisi": 3,
-   "anahtar": [
-    "440",
-    "epiq",
-    "skoda",
-    "sportif",
-    "sportline",
-    "tanıtıldı",
-    "tasarımlı"
    ]
   }
  ],
@@ -227,6 +232,24 @@
   "https://shiftdelete.net/google-antigravity-gemini-4-argon-destegi",
   "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
   "https://shiftdelete.net/samsung-katlanabilir-telefon-ailesi-genisliyor",
-  "https://www.webtekno.com/huawei-nova-katlanabilir-telefon-tasarim-degisikligi-h227299.html"
+  "https://www.webtekno.com/huawei-nova-katlanabilir-telefon-tasarim-degisikligi-h227299.html",
+  "https://shiftdelete.net/m7-islemcili-macbook-pro-yol-haritasi",
+  "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+  "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
+  "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+  "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
+  "https://www.teknoblog.com/razer-barracuda-v2-pro-iki-sesi-birlestiriyor/",
+  "https://shiftdelete.net/razer-barracuda-v2-pro-70-saatlik-pil-omruyle-tanitildi",
+  "https://www.donanimhaber.com/razer-barracuda-v2-pro-gaming-kulaklik-tanitildi-iste-fiyati--211704",
+  "https://www.donanimhaber.com/microsoft-windows-11-i-hizlandirdi-ram-kullanimi-dusuyor--211703",
+  "https://shiftdelete.net/windows-11-8-gb-ramli-bilgisayarlarda-performansini-artirdi",
+  "https://www.webtekno.com/windows-11-ram-kullanimi-performans-guncellemesi-h227359.html",
+  "https://shiftdelete.net/snapdragon-8-elite-extreme-gen-6da-ciddi-performans-sorunlari-tespit-edildi",
+  "https://www.webtekno.com/samsung-galaxy-s27-ultra-snapdragon-islemciden-vazgecebilir-h227314.html",
+  "https://www.androidauthority.com/samsung-galaxy-s27-plus-uwb-downgrade-3724300/",
+  "https://www.donanimhaber.com/organize-isler-karun-hazinesi-netflix-te-yayinlandi--211700",
+  "https://shiftdelete.net/organize-isler-karun-hazinesi-netflix-kutuphanesine-eklendi",
+  "https://shiftdelete.net/yeni-audi-q4-e-tron-turkiyede-satisa-sunuldu-iste-fiyati",
+  "https://www.webtekno.com/yeni-audi-q4-e-tron-turkiye-de-satisa-sunuldu-iste-fiyati-ve-ozellikleri-h227347.html"
  ]
 }
