@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-16T21:44+03:00",
+ "guncelleme": "2026-10-17T00:59+03:00",
  "haberler": [
   {
    "id": "eb9e0e7816",
@@ -15,6 +15,41 @@
     "saniyeler",
     "teslimatlar",
     "tükendi"
+   ]
+  },
+  {
+   "id": "2151c52536",
+   "zaman": "2026-10-16T14:20+03:00",
+   "metin": "Play Store'da sahte WhatsApp ve Chrome çıktı",
+   "aciklama": "Google Play Store'da orijinal uygulamalarla birebir aynı görünen sahte WhatsApp ve Chrome sürümleri tespit edildi. Sahte WhatsApp, sponsorlu tanıtımlar sayesinde 500 binden fazla kez indirildi.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "000",
+    "500",
+    "chrome",
+    "play",
+    "store",
+    "whatsapp"
+   ]
+  },
+  {
+   "id": "1a02ffbb2f",
+   "zaman": "2026-10-16T13:39+03:00",
+   "metin": "Tesla uçabilen yeni Roadster'ı duyurdu",
+   "aciklama": "Tesla, SpaceX iş birliğiyle geliştirilen yeni nesil Roadster'ı uçabilen bir model olarak resmen duyurdu. Araç, 1.341 beygir güç ve 0-100 km/s'ye 1 saniyenin altında ulaşma iddialarıyla dikkat çekiyor.",
+   "link": "https://dijitalnabiz.com.tr/2026/10/16/tesla-roadster-havalandi-ucan-araba-mi-basincli-havayla-yapilan-bir-gosteri-mi/",
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "0-100",
+    "0.8",
+    "1.341",
+    "otomobilini",
+    "roadster",
+    "saniye",
+    "spacex",
+    "uçan",
+    "çıldırdı"
    ]
   },
   {
@@ -249,6 +284,18 @@
   "https://9to5mac.com/2026/10/16/deals-new-apple-tv-4k-homeview-iphone-duo-airpods/",
   "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
   "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-  "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
+  "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models",
+  "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+  "https://shiftdelete.net/nvidia-rtx-5090-piyasada-yok-uretim-sona-mi-erdi",
+  "https://www.androidauthority.com/samsung-galaxy-book-6-deal-amazon-3724591/",
+  "https://www.androidauthority.com/fake-whatsapp-app-3724337/",
+  "https://www.log.com.tr/play-storedaki-sahte-whatsapp-ve-chrome-uygulamalarina-dikkat/",
+  "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+  "https://www.donanimhaber.com/sinemada-bu-hafta-9-ekim-2026--211712",
+  "https://9to5mac.com/2026/10/16/daily-october-16-2026/",
+  "https://shiftdelete.net/tesla-ucan-otomobilini-duyurdu-0-100-km-s-0-8-saniye-yeni-roadster-spacex-ile-cildirdi",
+  "https://www.donanimhaber.com/yeni-tesla-roadster-in-teknik-ozellikleri-aciklandi--211741",
+  "https://9to5google.com/2026/10/16/nests-halloween-doorbell-chimes-are-live-now-through-november-1/",
+  "https://www.androidauthority.com/google-nest-doorbell-halloween-chimes-2026-3724608/"
  ]
 }
