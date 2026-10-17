@@ -1,6 +1,47 @@
 {
- "guncelleme": "2026-10-17T12:10+03:00",
+ "guncelleme": "2026-10-17T16:36+03:00",
  "haberler": [
+  {
+   "id": "f9ae67100f",
+   "zaman": "2026-10-17T12:56+03:00",
+   "metin": "iPhone Duo kılıfında yapışkan bant çıktı",
+   "aciklama": "Apple'ın resmi iPhone Duo kılıfının cihaza yapışkan bantlarla tutunduğu ortaya çıktı. Kılıfı alan kullanıcılar bu durumdan şikayetçi.",
+   "link": null,
+   "kaynak_sayisi": 2,
+   "anahtar": [
+    "4.999",
+    "duo",
+    "ilk",
+    "iphone",
+    "iyisi",
+    "olabilir",
+    "olmamasına",
+    "rağmen",
+    "tl"
+   ]
+  },
+  {
+   "id": "87c5bd26be",
+   "zaman": "2026-10-17T12:30+03:00",
+   "metin": "Snapdragon 8 Elite Gen 6 ısınma iddiası yalanlandı",
+   "aciklama": "Qualcomm, Snapdragon 8 Elite Gen 6 işlemcisinin aşırı ısındığı yönündeki iddiaları asılsız olarak nitelendirdi. Şirket, platformda sistemsel bir sorun bulunmadığını açıkladı.",
+   "link": null,
+   "kaynak_sayisi": 3,
+   "anahtar": [
+    "2700",
+    "açıklama",
+    "boyutları",
+    "detayları",
+    "elite",
+    "extreme",
+    "exynos",
+    "galaxy",
+    "gen",
+    "işte",
+    "qualcomm",
+    "resmi"
+   ]
+  },
   {
    "id": "e793080c3b",
    "zaman": "2026-10-17T01:17+03:00",
@@ -106,49 +147,6 @@
     "satışa",
     "sunuldu",
     "tl"
-   ]
-  },
-  {
-   "id": "695a1492d5",
-   "zaman": "2026-10-16T10:10+03:00",
-   "metin": "Windows 11 Fotoğraflar uygulaması yenilendi",
-   "aciklama": "Microsoft, Windows 11'deki Fotoğraflar uygulamasını sıfırdan tasarlanmış modern bir arayüzle yeniledi. Uygulama, bilgisayardaki fotoğrafları OneDrive ve iCloud'daki görsellerle bir araya getiriyor ve ilk aşamada Windows Insider kullanıcılarına sunuluyor.",
-   "link": null,
-   "kaynak_sayisi": 2,
-   "anahtar": [
-    "11",
-    "20",
-    "android",
-    "artık",
-    "fotoğraflar",
-    "güncellendi",
-    "heic",
-    "hızlı",
-    "microsoft",
-    "webp",
-    "windows",
-    "yüzde"
-   ]
-  },
-  {
-   "id": "4f01302e3f",
-   "zaman": "2026-10-16T10:02+03:00",
-   "metin": "Apple iPhone Duo ön siparişe açılıyor",
-   "aciklama": "Apple, ilk katlanabilir iPhone modeli iPhone Duo'nun ön siparişlerini bugün başlatıyor ve bunun öncesinde online mağazasını geçici olarak kapattı. Sınırlı stok ve yüksek talep beklendiği için alıcıların ilk günden tükenmesi bekleniyor.",
-   "link": null,
-   "kaynak_sayisi": 4,
-   "anahtar": [
-    "000",
-    "8am",
-    "duo",
-    "et",
-    "iphone",
-    "kapattı",
-    "katlanabilir",
-    "mağazayı",
-    "siparişleri",
-    "store",
-    "ön"
    ]
   }
  ],
@@ -287,6 +285,23 @@
   "https://www.log.com.tr/7-500-mah-bataryali-redmi-17-ve-17-5g-turkiyede-satisa-sunuldu/",
   "https://www.teknoblog.com/redmi-note-17-5g-256-gbi-26-999-tl-ye-alabilirsiniz/",
   "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
-  "https://www.teknoblog.com/verizon-iphone-handoff-icin-10-dolar-isteyecek/"
+  "https://www.teknoblog.com/verizon-iphone-handoff-icin-10-dolar-isteyecek/",
+  "https://shiftdelete.net/iphone-duo-ilk-olmamasina-ragmen-en-iyisi-olabilir",
+  "https://www.log.com.tr/applein-4-999-tllik-resmi-iphone-duo-kilifinda-yapiskan-bantlar-kullandigi-ortaya-cikti/",
+  "https://www.teknoblog.com/iphone-duo-yogun-talep-apple-turkiye/",
+  "https://www.donanimhaber.com/apple-in-iphone-duo-kilifi-telefona-yapiskanla-tutunuyor--211761",
+  "https://www.donanimhaber.com/galaxy-s27-ultra-icin-surpriz-gelisme-exynos-2700-geri-donebilir--211748",
+  "https://shiftdelete.net/snapdragon-8-elite-gen-6-isiniyor-mu-iste-resmi-aciklama",
+  "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+  "https://shiftdelete.net/galaxy-s27-ultra-tasarim-detaylari-ve-boyutlari-sizdirildi",
+  "https://www.log.com.tr/qualcomm-galaxy-s27-ultra-uzerinden-ortaya-atilan-snapdragon-8-elite-extreme-gen-6-iddiasini-yalanladi/",
+  "https://www.teknoblog.com/huawei-avrupa-da-scale-programini-baslatti/",
+  "https://www.log.com.tr/huaweiden-avrupanin-dijital-ve-yesil-donusumune-destek/",
+  "https://www.donanimhaber.com/apple-intelligence-sonunda-cin-e-geliyor-siri-ai-yine-yok--211749",
+  "https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/",
+  "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+  "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
+  "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+  "https://shiftdelete.net/tesla-roadster-612-km-s-hiz-sinirini-roket-motorlariyla-asacak"
  ]
 }
