@@ -1,6 +1,18 @@
 {
- "guncelleme": "2026-10-17T00:59+03:00",
+ "guncelleme": "2026-10-17T12:10+03:00",
  "haberler": [
+  {
+   "id": "e793080c3b",
+   "zaman": "2026-10-17T01:17+03:00",
+   "metin": "App Store'da rıza dışı AI içeriklere yeni yasak",
+   "aciklama": "Apple, App Store inceleme kurallarını güncelleyerek rıza dışı cinsel görüntü üreten yapay zeka uygulamalarını açıkça yasakladı. Kurallar ayrıca inceleme sonrası amacını değiştiren uygulamalara ve zararlı içeriği önlemeyen geliştiricilere karşı da yaptırım getiriyor.",
+   "link": null,
+   "kaynak_sayisi": 4,
+   "anahtar": [
+    "app",
+    "store"
+   ]
+  },
   {
    "id": "eb9e0e7816",
    "zaman": "2026-10-16T16:10+03:00",
@@ -138,35 +150,6 @@
     "store",
     "ön"
    ]
-  },
-  {
-   "id": "e4538d147c",
-   "zaman": "2026-10-15T20:30+03:00",
-   "metin": "Volvo, Nvidia ile eller serbest sürüşe geçiyor",
-   "aciklama": "Volvo, Nvidia'nın otonom sürüş yazılımını kullanarak 2030'a kadar eller serbest, noktadan noktaya sürüş sistemi getirmeyi planlıyor. Şirket, yeni sistemin Seviye 2++ olacağını ve Nvidia ile ortaklığını genişleteceğini açıkladı.",
-   "link": null,
-   "kaynak_sayisi": 2,
-   "anahtar": [
-    "volvo"
-   ]
-  },
-  {
-   "id": "9dc666d5bb",
-   "zaman": "2026-10-15T20:00+03:00",
-   "metin": "Meta'dan Mac'lerde çalışan yeni açık AI modeli",
-   "aciklama": "Meta, Apple ile iş birliği yaparak Muse Spark Open adlı yeni açık ağırlıklı yapay zeka modelini tanıttı. Model, Apple çiplerine sahip Mac bilgisayarlarda yerel olarak çalışacak şekilde optimize edildi.",
-   "link": "https://dijitalnabiz.com.tr/2026/10/16/metanin-acik-modeli-macte-calisiyor-ama-hangi-macte-acik-ile-herkesin-bilgisayarinda-ayni-sey-degil/",
-   "kaynak_sayisi": 4,
-   "anahtar": [
-    "1tb",
-    "mac",
-    "macs",
-    "meta",
-    "muse",
-    "open",
-    "ram",
-    "studio"
-   ]
   }
  ],
  "islenen": [
@@ -296,6 +279,14 @@
   "https://shiftdelete.net/tesla-ucan-otomobilini-duyurdu-0-100-km-s-0-8-saniye-yeni-roadster-spacex-ile-cildirdi",
   "https://www.donanimhaber.com/yeni-tesla-roadster-in-teknik-ozellikleri-aciklandi--211741",
   "https://9to5google.com/2026/10/16/nests-halloween-doorbell-chimes-are-live-now-through-november-1/",
-  "https://www.androidauthority.com/google-nest-doorbell-halloween-chimes-2026-3724608/"
+  "https://www.androidauthority.com/google-nest-doorbell-halloween-chimes-2026-3724608/",
+  "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
+  "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+  "https://www.log.com.tr/apple-app-store-kurallarini-yapay-zekayla-uretilen-cinsel-iceriklere-karsi-sikilastirdi/",
+  "https://www.teknoblog.com/apple-app-store-guvenlik-kurallarini-netlestirdi/",
+  "https://www.log.com.tr/7-500-mah-bataryali-redmi-17-ve-17-5g-turkiyede-satisa-sunuldu/",
+  "https://www.teknoblog.com/redmi-note-17-5g-256-gbi-26-999-tl-ye-alabilirsiniz/",
+  "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
+  "https://www.teknoblog.com/verizon-iphone-handoff-icin-10-dolar-isteyecek/"
  ]
 }
